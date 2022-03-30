@@ -5,6 +5,8 @@ import json
 import telebot
 from telebot import types
 from geopy.distance import geodesic
+from PIL import Image
+from urllib.request import urlopen
 
 
 class Lowprice:
@@ -111,9 +113,11 @@ class Lowprice:
 
                 response_photo = requests.request("GET", url_photo, headers=headers_photo, params=querystring_photo)
                 data_photo = json.loads(response_photo.text)
+
                 for i in range(self.countPhoto):
-                    self.__bot.send_photo(message.from_user.id,
-                                          open(data_photo.get("hotelImages")[i].get("baseUrl").format(size='b'), 'rb'))
+                    img_url = data_photo.get("hotelImages")[i].get("baseUrl").format(size='b')
+                    requests.get(f'https://api.telegram.org/bot{self.__bot.token}/sendPhoto?chat_id={message.chat.id}&photo={img_url}')
+
             time.sleep(1)
 
 
