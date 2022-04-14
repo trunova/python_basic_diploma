@@ -1,0 +1,12 @@
+/highprice|2022-04-13|20:27:26.427040|The Ritz-Carlton New York, Central Park|Mandarin Oriental, New York|The Mark|The New York EDITION|The St. Regis New York|
+/bestdeal|2022-04-13|20:28:27.052176|Canal Loft Hotel|
+/lowprice|2022-04-13|20:52:11.482487|Canal Loft Hotel|The Williams Hotel|Ozone Inn & Suites|Surface Inn Brooklyn|Flushing Hotel|Neptune Hotel|Super Lake Hotel|Magna Hotel|
+/bestdeal|2022-04-13|22:43:22.288163|/bestdeal|2022-04-13|22:45:04.338065|Ramada by Wyndham East Orange|Ozone Inn & Suites|Canal Loft Hotel|The Williams Hotel|Days Inn & Suites by Wyndham Jamaica JFK Airport|Surface Inn Brooklyn|Astoria Delancy Inn & Suites|Super 8 by Wyndham Meadowlands|
+/lowprice|2022-04-13|23:09:06.238014|Canal Loft Hotel|The Williams Hotel|Hotel Pergola JFK Airport|Surface Inn Brooklyn|Neptune Hotel|
+/highprice|2022-04-13|23:20:03.014620|/lowprice|2022-04-13|23:26:20.585759|/highprice|2022-04-13|23:27:11.015573|The Mark|The St. Regis New York|Baccarat Hotel and Residences New York|The Carlyle, A Rosewood Hotel|Mandarin Oriental, New York|The Towers at Lotte New York Palace|
+/lowprice|2022-04-14|09:46:19.124310|/highprice|2022-04-14|09:49:53.589723|The Mark|The St. Regis New York|Baccarat Hotel and Residences New York|The Carlyle, A Rosewood Hotel|Mandarin Oriental, New York|
+/highprice|2022-04-14|11:11:59.262545|The Mark|The St. Regis New York|Baccarat Hotel and Residences New York|Mandarin Oriental, New York|The Towers at Lotte New York Palace|
+/lowprice|2022-04-14|11:15:28.281435|Canal Loft Hotel|The Williams Hotel|Hotel Pergola JFK Airport|
+/lowprice|2022-04-14|11:31:05.599095|Canal Loft Hotel|The Williams Hotel|Hotel Pergola JFK Airport|Neptune Hotel|Surface Inn Brooklyn|
+/bestdeal|2022-04-14|11:39:43.878043|/bestdeal|2022-04-14|11:41:08.223849|
+/bestdeal|2022-04-14|11:46:12.390090|Millennium Hilton New York One UN Plaza|M Social Hotel Times Square New York|PUBLIC, an Ian Schrager hotel|NH Collection New York Madison Avenue|The Washington|
